@@ -1,4 +1,4 @@
-# This is the official repo for my Skadis SVG generator
+## This is the official repo for my Skadis SVG generator
 
 To use the software, you will need to download the .exe file and run it.
 It currently works best on windows computers, that already have python installed. Update hopefully coming soon ish.
